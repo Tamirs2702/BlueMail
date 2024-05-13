@@ -27,7 +27,7 @@ simple web application built with Node.js, Express, and Socket.IO for real-time 
 1. Start the server:
 
     ```
-    node app.js
+    node index.js
     ```
 
 2. Access the application in your web browser at `http://localhost:3000`.
